@@ -32,4 +32,5 @@ Diversos conteúdos sobre Desenvolvimento TI
 
 **Biblioteca Computação**
 * https://mega.nz/#F!t5dgiZJI!_DR5DXsaeKg15HP9tsT8Nw!Yg81yZRb
-* Maior acervo conteudo de programação : livros e video aulas sobre programação/desenvolvimento/ti/computação.  
+* Maior acervo conteudo de programação/desenvolvimento/ti/computação.
+* Video aula , livros e cursos completos. 
