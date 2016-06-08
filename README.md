@@ -30,5 +30,6 @@ Diversos conteúdos sobre Desenvolvimento TI
 * https://jsfiddle.net/
 
 
-**Cloud Faculdade**
+**Biblioteca Computação**
 * https://mega.nz/#F!t5dgiZJI!_DR5DXsaeKg15HP9tsT8Nw!Yg81yZRb
+Maior acervo conteudo de programação : livros e video aulas sobre programação/desenvolvimento/ti/computação.  
