@@ -17,6 +17,7 @@ Diversos conteúdos sobre Desenvolvimento TI
 * http://exame.abril.com.br/topicos/tecnologia-da-informacao 
 * http://codigofonte.uol.com.br/
 * http://netcoders.com.br/blog/
+* http://www.techdicas.net.br/
 
 **Forums**
 * http://www.guj.com.br/
