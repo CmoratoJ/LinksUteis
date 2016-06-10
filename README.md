@@ -42,3 +42,4 @@ Diversos conteúdos sobre Desenvolvimento TI
 * http://mundopodcast.com.br/
 * http://radiofobia.com.br/podcast/
 * http://www.portalcafebrasil.com.br/todos/podcasts/
+* http://www.b9.com.br/podcasts/braincast/
