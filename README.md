@@ -17,7 +17,6 @@ Diversos conteúdos sobre Desenvolvimento TI
 * http://exame.abril.com.br/topicos/tecnologia-da-informacao 
 * http://codigofonte.uol.com.br/
 
-
 **Forums**
 * http://www.guj.com.br/
 * https://social.msdn.microsoft.com/Forums/pt-BR/home
@@ -29,8 +28,16 @@ Diversos conteúdos sobre Desenvolvimento TI
 * https://dotnetfiddle.net/
 * https://jsfiddle.net/
 
-
 **Biblioteca Computação**
 * https://mega.nz/#F!t5dgiZJI!_DR5DXsaeKg15HP9tsT8Nw!Yg81yZRb
 * Maior acervo conteudo de programação/desenvolvimento/ti/computação.
 * Video aula , livros e cursos completos. 
+
+**Bônus  - Pod Cast**
+* http://deviante.com.br/podcasts/scicast/
+* https://jovemnerd.com.br/categoria/nerdcast/
+* http://www.grokpodcast.com/
+* http://softwarelivre.org/portal/noticias/lista-de-podcasts-de-ti
+* http://mundopodcast.com.br/
+* http://radiofobia.com.br/podcast/
+* http://www.portalcafebrasil.com.br/todos/podcasts/
