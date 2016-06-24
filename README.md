@@ -29,7 +29,6 @@ Diversos conteúdos sobre Desenvolvimento TI
 * https://ideone.com/
 * https://dotnetfiddle.net/
 * https://jsfiddle.net/
-* 
 
 **Modelagem / Digrama Online**
 * https://www.draw.io/
