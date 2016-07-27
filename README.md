@@ -18,6 +18,7 @@ Diversos conteúdos sobre Desenvolvimento TI
 * http://codigofonte.uol.com.br/
 * http://netcoders.com.br/blog/
 * http://www.techdicas.net.br/
+* https://tecnoblog.net/
 
 **Forums**
 * http://www.guj.com.br/
@@ -47,3 +48,4 @@ Diversos conteúdos sobre Desenvolvimento TI
 * http://radiofobia.com.br/podcast/
 * http://www.portalcafebrasil.com.br/todos/podcasts/
 * http://www.b9.com.br/podcasts/braincast/
+* https://soundcloud.com/tecnoblog
