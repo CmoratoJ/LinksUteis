@@ -50,3 +50,4 @@ Diversos conteúdos sobre Desenvolvimento TI
 * http://www.portalcafebrasil.com.br/todos/podcasts/
 * http://www.b9.com.br/podcasts/braincast/
 * https://soundcloud.com/tecnoblog
+* http://devnaestrada.com.br/
