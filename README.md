@@ -52,3 +52,4 @@ Diversos conteúdos sobre Desenvolvimento TI
 * https://soundcloud.com/tecnoblog
 * http://devnaestrada.com.br/
 * https://soundcloud.com/concretebr
+* https://mundopodcast.com.br/podprogramar/
