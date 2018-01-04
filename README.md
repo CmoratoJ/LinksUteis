@@ -51,3 +51,4 @@ Diversos conteúdos sobre Desenvolvimento TI
 * http://www.b9.com.br/podcasts/braincast/
 * https://soundcloud.com/tecnoblog
 * http://devnaestrada.com.br/
+* https://soundcloud.com/concretebr
